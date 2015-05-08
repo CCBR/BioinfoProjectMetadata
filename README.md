@@ -17,3 +17,12 @@ in the Background section.
 - Use github issues (and not email) to discuss ideas
 - As issues are addressed, make changes to associated repository
 files to implement the required changes
+
+## Testing the YAML file
+
+To test the parsing of the YAML file, simply run the little python script:
+
+```
+python testYAML.py
+```
+
